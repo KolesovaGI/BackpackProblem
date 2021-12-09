@@ -1,0 +1,16 @@
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\bin\Debug\BackpackProblem.exe.config
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\bin\Debug\BackpackProblem.exe
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\bin\Debug\BackpackProblem.pdb
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csproj.AssemblyReference.cache
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\MainWindow.g.cs
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\App.g.cs
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem_MarkupCompile.cache
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem_MarkupCompile.lref
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\MainWindow.baml
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.g.resources
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.Properties.Resources.resources
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csproj.GenerateResource.cache
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.exe
+D:\Учёба\2 курс\Алгоритмизация\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.pdb
